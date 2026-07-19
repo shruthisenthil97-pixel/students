@@ -1,7 +1,8 @@
 # Analysis on acedamic students performance-
 # 📊 Analysis on acedamic students performance-Insights-
 
-## Project Overview
+## Objective(Problem statment)
+
 # Project Overview
 
        An end-to-end Data Analytics project that transforms raw mutual fund data into actionable investment insights using Python, Exploratory Data Analysis (EDA), and Data Visualization.
