@@ -21,18 +21,17 @@ Source: Mendeley Open Data Portals https://data.mendeley.com/datasets/dc3797vf3t
 Year / Timeline: Data collected during 2013 to 2023
 
 ## DATA SET details:
-*     University Admission year,
-Gender,
-Age,
-How many hour do you study daily?,
-What is your preferable learning mode?,
-How many hour do you spent daily in social media?,
-Status of your English language proficiency,
-Average attendance on class,
-Do you attend in teacher consultancy for any kind of academical problems?,
-What are the skills do you have ?,
-What is you interested area?,
-Do you have any health issues?,
-Do you have any physical disabilities?
-
-What is your monthly family income?
+* University Admission year,
+* Gender,
+* Age,
+* How many hour do you study daily?,
+* What is your preferable learning mode?,
+* How many hour do you spent daily in social media?,
+* Status of your English language proficiency,
+* Average attendance on class,
+* Do you attend in teacher consultancy for any kind of academical problems?,
+* What are the skills do you have ?,
+* What is you interested area?,
+* Do you have any health issues?,
+* Do you have any physical disabilities?
+* What is your monthly family income?
